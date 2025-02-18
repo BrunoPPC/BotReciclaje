@@ -4,11 +4,11 @@
 >Mi proyecto se basará en utilizar Google Teachable Machine y la plataforma de Discord para el reconocimiento de IA de objetos que puedan ser reciclados, de tal forma que pueda ayudar al usuario a identificar como y cuales objetos pueden ser reciclados!
 
 ## Las bibliotecas que voy a utilizar:
-- TensorFlow: para el desarrollo y uso de modelos de machine learning.
-- Keras: para el manejo de redes neuronales y modelos preentrenados.
-- discord.py: para la integración del bot de Discord.
-- Pillow: para procesar y trabajar con imágenes que se envíen al bot.
-- NumPy: para manejar operaciones numéricas relacionadas con el modelo de IA.
+- TensorFlow: Para el desarrollo y uso de modelos de machine learning.
+- Keras: Para el manejo de redes neuronales y modelos preentrenados.
+- discord.py: Para la integración del bot de Discord.
+- Pillow: Para procesar y trabajar con imágenes que se envíen al bot.
+- NumPy: Para manejar operaciones numéricas relacionadas con el modelo de IA.
 
 ## Referencias útiles:
 - [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
