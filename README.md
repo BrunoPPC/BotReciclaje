@@ -1,6 +1,6 @@
 # IA-de-Reciclaje: Visión por ordenador
 
-## Este es el tipo de mi proyecto:
+## Este es el tipo de mi proyecto: 
 >Mi proyecto se basará en utilizar Google Teachable Machine y la plataforma de Discord para el reconocimiento de IA de objetos que puedan ser reciclados, de tal forma que pueda ayudar al usuario a identificar como y cuales objetos pueden ser reciclados!
 
 ## Las bibliotecas que voy a utilizar:
