@@ -12,8 +12,11 @@
 - NumPy: para manejar operaciones numéricas relacionadas con el modelo de IA.
 
 ## Referencias útiles:
-- [Referencia 1](https://teachablemachine.withgoogle.com/)
-- [Referencia N](https://discordpy.readthedocs.io/en/stable/)
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Discord](https://discordpy.readthedocs.io/en/stable/)
+- [Keras](https://keras.io/guides/serialization_and_saving/)
 
 ## Los artículos de la guía que me ayudarán durante el desarrollo
-Un breve comentario que le ayudará a recordar de qué trata el artículo... [una palabra clicable que contendrá el enlace](https://enlace_al_artículo)
+- Creando una cuenta bot: [Discord](https://discordpy.readthedocs.io/en/stable/discord.html)
+- Crear un bot básico: [Discord](https://discordpy.readthedocs.io/en/stable/quickstart.html)
+- Uso de Teachable Machine para detección de objetos: [Tensorflow](https://blog.nashtechglobal.com/object-detection-with-teachable-machine-tensorflow-js-in-web-application/)
