@@ -1,16 +1,1 @@
-0 Labrador Retrievers
-1 German Shepherds
-2 Golden Retrievers
-3 Beagles
-4 Pitbulls
-5 Poodle
-6 French Bulldog
-7 Rottweiler
-8 Siberian Husky
-9 Boxer
-10 Dachshund
-11 Shih Tzu
-12 Border Collie
-13 Australian Shepherd
-14 Cocker Spaniel
-15 Doberman
+Plantilla...
