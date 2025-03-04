@@ -1,1 +1,9 @@
-Plantilla...
+0 Vidrio
+1 Plastico
+2 Metal
+3 Papel y Carton
+4 Organico
+5 Electronicos
+6 Textiles
+7 No reciclables
+8 Residuos
