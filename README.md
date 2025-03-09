@@ -1,3 +1,5 @@
+<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
+
 # IA-de-Reciclaje: Visión por Computadora 🤖♻️
 
 ## Descripción del Proyecto
