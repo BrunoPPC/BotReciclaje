@@ -1,6 +1,6 @@
 <img align="right" src="https://c.files.bbci.co.uk/29F4/production/_129704701_gettyimages-1363177318-1.jpg" height="250" width="250">
 
-#♻️ GreenScan ♻️
+# ♻️ GreenScan ♻️
 
 🤖♻️ ¿Te has preguntado cómo reciclar correctamente un objeto? ¡Este bot de Discord lo hace por ti! Utilizando inteligencia artificial y visión por computadora, el bot clasifica objetos reciclables a partir de imágenes y te brinda información detallada sobre cómo reciclarlos. ¡Únete a la revolución verde y ayuda al medioambiente con solo una foto! 🌍✨
 
