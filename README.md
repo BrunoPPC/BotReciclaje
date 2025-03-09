@@ -53,6 +53,6 @@ El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasi
    El bot fue probado con permisos de Administrador por ser un proyecto de codigo libre, pero si lo deseas más especifico, los permisos requeridos para que el bot funcione son:
    - ![Requisitos](https://github.com/user-attachments/assets/6930ff1f-a2ad-4983-9374-572e1d90280c)
 
-  Una vez lo hayas creado e invitado a tu servidor, solo queda reemplazar el valor "TOKEN" en la ultima linea del codigo con el token que te proporcione tu bot al ser creado!
+  Una vez lo hayas creado e invitado a tu servidor, solo queda reemplazar el valor "TOKEN" en la ultima linea del codigo con el token que te proporcione tu bot al ser creado y listo! Ahora solo necesitas ejecutar el main.py y ya estaría. El bot se pondra online para el uso de los usuarios.
 
 
