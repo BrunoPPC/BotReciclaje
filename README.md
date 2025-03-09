@@ -15,7 +15,7 @@ El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasi
   * ♻️ **Información de Reciclaje**: Proporciona detalles sobre cómo reciclar cada tipo de material.
   * 🤖 **Bot de Discord**: Facil de utilizar.
   * 🧠 **Modelo de IA Entrenado**: Utiliza un modelo entrenado con Google Teachable Machine para la clasificación.
----
+
 
 ## Referencias
 - **[TensorFlow](https://www.tensorflow.org/?hl=es)**: Para el desarrollo y uso de modelos de machine learning.
