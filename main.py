@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Diccionario con información de reciclaje
 info_reciclaje = {
-    "Plástico": 
+    "Plastico": 
         "🌍 **¡Recicla Plástico!** 🌍\n\n"
         "El plástico es uno de los materiales más comunes en nuestro día a día, pero también uno de los más contaminantes si no se recicla correctamente. "
         "Aquí te decimos cómo hacerlo:\n\n"
@@ -88,7 +88,7 @@ info_reciclaje = {
         "3. 📦 Deposítalos en el contenedor azul.\n\n"
         "🌱 **¡Reciclar papel salva árboles y reduce la contaminación!** 🌱",
 
-    "Orgánico": 
+    "Organico": 
         "🌱 **¡Residuos Orgánicos!** 🌱\n\n"
         "Los residuos orgánicos son todos aquellos restos de comida y desechos naturales que pueden descomponerse. "
         "Aquí te decimos cómo reciclarlos correctamente:\n\n"
@@ -107,7 +107,7 @@ info_reciclaje = {
         "3. 🚜 Lleva los residuos a un centro de compostaje si no puedes hacerlo en casa.\n\n"
         "🌍 **¡Reciclar orgánicos ayuda a reducir el desperdicio y enriquecer la tierra!** 🌍",
 
-    "Electrónicos": 
+    "Electronicos": 
         "🌍 **¡Recicla Electrónicos!** 🌍\n\n"
         "Los residuos electrónicos contienen materiales valiosos y sustancias tóxicas que deben manejarse con cuidado. "
         "Aquí te explicamos cómo reciclarlos:\n\n"
