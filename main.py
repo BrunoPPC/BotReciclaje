@@ -145,7 +145,7 @@ info_reciclaje = {
         "3. 🌱 Los textiles reciclados se convierten en nuevos productos o materiales.\n\n"
         "🌱 **¡Reciclar textiles reduce el desperdicio y ayuda a quienes lo necesitan!** 🌱",
 
-    "Peligrosos": 
+    "Residuos": 
         "🌍 **¡Recicla Residuos Peligrosos!** 🌍\n\n"
         "Los residuos peligrosos contienen sustancias tóxicas que pueden dañar el medio ambiente y la salud. "
         "Aquí te explicamos cómo manejarlos:\n\n"
