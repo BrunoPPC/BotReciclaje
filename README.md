@@ -7,9 +7,9 @@
 ---
 
 ## Uso
-Este proyecto tiene como objetivo utilizar **Inteligencia Artificial (IA)** y **visión por computadora** para ayudar a los usuarios a identificar objetos reciclables. A través de un bot de Discord, los usuarios pueden subir imágenes de objetos, y el bot clasificará el tipo de material (plástico, vidrio, metal, etc.) y proporcionará información sobre cómo reciclarlo correctamente. Este bot ofrece la opción de utilizar tu propio modelo si así lo desea el usuarío.
+Estamos viviendo en un mundo donde se pasa por alto la importancia que tiene reciclar y mantener el ambiente limpio, es por eso que este proyecto tiene como objetivo utilizar **Inteligencia Artificial (IA)** y **visión por computadora** para ayudar a los usuarios a identificar objetos reciclables y así, facilitar la preservación de un ambiente saludable. A través de un bot de Discord, los usuarios pueden subir imágenes de objetos, y el bot clasificará el tipo de material (plástico, vidrio, metal, etc.) y proporcionará información sobre cómo reciclarlo correctamente. Este bot ofrece la opción de utilizar un modelo propio si así lo desea el usuarío.
 
-El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasificación de imagenes y se integra con Discord para ofrecer una experiencia interactiva y amigable.
+El sistema utiliza el motor de **[Google Teachable Machine](https://teachablemachine.withgoogle.com/train)** como modelo de clasificación de imagenes y se integra con Discord para ofrecer una experiencia interactiva y amigable.
 
 ---
 
