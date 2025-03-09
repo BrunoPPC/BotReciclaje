@@ -33,21 +33,18 @@ El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasi
 - Acceso a Google Teachable Machine para entrenar el modelo.
 
 ### Pasos para Configurar el Proyecto
-1. **Instalación**:
-   Para la instalación de este proyecto puedes descargar el ultimo zip adjunto al github (v1.00) o clonar el repositorio
+1. **Instalación**: Para la instalación de este proyecto puedes descargar el ultimo zip adjunto al github (v1.00) o clonar el repositorio
    
    **Clonar el Repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/IA-de-Reciclaje.git
    cd IA-de-Reciclaje
 
-2. **Librerias**
-   El bot requiere de ciertas librerias para poder funcionar adecuadamente. Estas librerias ya vienen incluidas en el archivo requirements.txt y para utilizarlo escribe esto en tu consola:
+2. **Librerias:** El bot requiere de ciertas librerias para poder funcionar adecuadamente. Estas librerias ya vienen incluidas en el archivo requirements.txt y para utilizarlo escribe esto en tu consola:
    ````bash
    pip install -r requirements.txt
 
-3. **Discord**
-   El siguiente paso es crear un bot para alojar a este proyecto. Esto lo puedes hacer de manera muy simple siguiendo la siguiente [guía](https://discordpy.readthedocs.io/en/stable/discord.html)!
+3. **Discord:** El siguiente paso es crear un bot para alojar a este proyecto. Esto lo puedes hacer de manera muy simple siguiendo la siguiente [guía](https://discordpy.readthedocs.io/en/stable/discord.html)!
    El bot fue probado con permisos de Administrador por ser un proyecto de codigo libre, pero si lo deseas más especifico, los permisos requeridos para que el bot funcione son:
    - ![Requisitos](https://github.com/user-attachments/assets/6930ff1f-a2ad-4983-9374-572e1d90280c)
 
