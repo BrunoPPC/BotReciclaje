@@ -33,7 +33,7 @@ El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasi
 - Acceso a Google Teachable Machine para entrenar el modelo.
 
 ### Pasos para Configurar el Proyecto
-1. **Instalación**
+1. **Instalación**:
    Para la instalación de este proyecto puedes descargar el ultimo zip adjunto al github (v1.00) o clonar el repositorio
    
    **Clonar el Repositorio**:
