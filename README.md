@@ -1,4 +1,4 @@
-<img align="right" src="https://reciclamas.com.mx/wp-content/uploads/2023/03/admin-ajax-5.jpg" height="200" width="200">
+<img align="right" src="https://c.files.bbci.co.uk/29F4/production/_129704701_gettyimages-1363177318-1.jpg" height="200" width="200">
 
 # IA-de-Reciclaje: Visión por Computadora 🤖♻️
 
