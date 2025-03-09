@@ -4,11 +4,14 @@
 
 🤖♻️ ¿Te has preguntado cómo reciclar correctamente un objeto? ¡Este bot de Discord lo hace por ti! Utilizando inteligencia artificial y visión por computadora, el bot clasifica objetos reciclables a partir de imágenes y te brinda información detallada sobre cómo reciclarlos. ¡Únete a la revolución verde y ayuda al medioambiente con solo una foto! 🌍✨
 
-## Descripción del Proyecto
+---
+
+## Uso
 Este proyecto tiene como objetivo utilizar **Inteligencia Artificial (IA)** y **visión por computadora** para ayudar a los usuarios a identificar objetos reciclables. A través de un bot de Discord, los usuarios pueden subir imágenes de objetos, y el bot clasificará el tipo de material (plástico, vidrio, metal, etc.) y proporcionará información sobre cómo reciclarlo correctamente. Este bot ofrece la opción de utilizar tu propio modelo si así lo desea el usuarío.
 
 El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasificación de imagenes y se integra con Discord para ofrecer una experiencia interactiva y amigable.
 
+---
 
 ## Características
   * 🖼️ **Reconocimiento de Imágenes**: Clasifica objetos reciclables a partir de imágenes enviadas por los usuarios.
