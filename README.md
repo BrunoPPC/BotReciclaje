@@ -38,7 +38,7 @@ El sistema utiliza el motor de **[Google Teachable Machine](https://teachablemac
 - Acceso a Google Teachable Machine para entrenar el modelo.
 
 ### Pasos para Configurar el Proyecto
-- **Instalación**: Para la instalación de este proyecto puedes descargar el ultimo zip adjunto al github (v1.00) o clonar el repositorio
+- **Instalación**: Para la instalación de este proyecto puedes descargar el ultimo zip adjunto al github (Versión 1.00) o clonar el repositorio
    
    **Clonar el Repositorio**:
    ```bash
