@@ -2,6 +2,8 @@
 
 # IA-de-Reciclaje: Visión por Computadora 🤖♻️
 
+Un bot para ayudar al medioambiente!
+
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo utilizar **Inteligencia Artificial (IA)** y **visión por computadora** para ayudar a los usuarios a identificar objetos reciclables. A través de un bot de Discord, los usuarios pueden subir imágenes de objetos, y el bot clasificará el tipo de material (plástico, vidrio, metal, etc.) y proporcionará información sobre cómo reciclarlo correctamente. Este bot ofrece la opción de utilizar tu propio modelo si así lo desea el usuarío.
 
