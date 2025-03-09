@@ -7,7 +7,7 @@ El sistema utiliza **Google Teachable Machine** para entrenar un modelo de clasi
 
 ---
 
-## Características Principales
+## Características
 - 🖼️ **Reconocimiento de Imágenes**: Clasifica objetos reciclables a partir de imágenes enviadas por los usuarios.
 - ♻️ **Información de Reciclaje**: Proporciona detalles sobre cómo reciclar cada tipo de material.
 - 🤖 **Bot de Discord**: Interfaz fácil de usar para interactuar con el sistema.
@@ -15,7 +15,7 @@ El sistema utiliza **Google Teachable Machine** para entrenar un modelo de clasi
 
 ---
 
-## Tecnologías Utilizadas
+## Referencias
 - **TensorFlow**: Para el desarrollo y uso de modelos de machine learning.
 - **[Keras](https://keras.io/guides/serialization_and_saving/)**: Para el manejo de redes neuronales y modelos preentrenados.
 - **[discord.py](https://discordpy.readthedocs.io/en/stable/)**: Para la integración del bot de Discord.
@@ -28,7 +28,7 @@ El sistema utiliza **Google Teachable Machine** para entrenar un modelo de clasi
 ## Instalación y Configuración
 
 ### Requisitos Previos
-- Python 3.8 o superior.
+- Python 3.10
 - Cuenta de Discord con permisos para crear un bot.
 - Acceso a Google Teachable Machine para entrenar el modelo.
 
