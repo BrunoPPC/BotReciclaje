@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo utilizar **Inteligencia Artificial (IA)** y **
 
 El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasificación de imagenes y se integra con Discord para ofrecer una experiencia interactiva y amigable.
 
----
+
 ## Características
   * 🖼️ **Reconocimiento de Imágenes**: Clasifica objetos reciclables a partir de imágenes enviadas por los usuarios.
   * ♻️ **Información de Reciclaje**: Proporciona detalles sobre cómo reciclar cada tipo de material.
