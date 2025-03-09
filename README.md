@@ -40,7 +40,7 @@ El sistema utiliza el motor de **Google Teachable Machine** como modelo de clasi
    git clone https://github.com/tu-usuario/IA-de-Reciclaje.git
    cd IA-de-Reciclaje
 
-- **Librerias:** El bot requiere de ciertas librerias para poder funcionar adecuadamente. Estas librerias ya vienen incluidas en el archivo requirements.txt y para utilizarlo escribe esto en tu consola:
+- **Librerias:** El bot requiere de ciertas librerias para poder funcionar adecuadamente, estas librerias ya vienen incluidas en el archivo requirements.txt. Para utilizarlo escribe esto en la terminal:
    ````bash
    pip install -r requirements.txt
 
