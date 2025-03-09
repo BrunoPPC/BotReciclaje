@@ -1,4 +1,4 @@
-<img align="right" src="https://c.files.bbci.co.uk/29F4/production/_129704701_gettyimages-1363177318-1.jpg" height="180" width="500">
+<img align="right" src="https://c.files.bbci.co.uk/29F4/production/_129704701_gettyimages-1363177318-1.jpg" height="180" width="200">
 
 # Bot de reciclaje ♻️
 
