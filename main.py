@@ -69,7 +69,7 @@ info_reciclaje = {
         "3. 📦 Deposítalos en el contenedor amarillo.\n\n"
         "🌱 **¡Reciclar metal reduce la minería y ahorra energía!** 🌱",
 
-    "Papel": 
+    "Papel y Carton": 
         "🌍 **¡Recicla Papel y Cartón!** 🌍\n\n"
         "El papel y el cartón son materiales reciclables que ayudan a salvar árboles. "
         "Aquí te explicamos cómo reciclarlos correctamente:\n\n"
